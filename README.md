@@ -1,18 +1,3 @@
-线程池精讲
-ID	Problem
-001	什么是线程池
-002	线程池核心讲解
-003	常见的四种线程池
-003-1	阻塞队列一览
-003-2	拒绝策略一览
-003-3	线程池运行流程
-004	浅谈线程池生产工作中的应用
-004-1	线程池在生产中选择哪种线程池
-005	线程池的核心参数有哪些
-006	线程池生产上如何合理配置线程池
-007	线程池谈一谈拒绝策略
-线程池各类的关系：
-
 Executors -- new ThreadPoolExecutor
 
 ThreadPoolExecutor extends AbstractExecutorService
